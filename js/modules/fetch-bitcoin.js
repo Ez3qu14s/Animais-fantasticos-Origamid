@@ -11,7 +11,3 @@ export default function fetchBitcoin(url, target) {
       console.log(Error(erro));
     });
 }
-<<<<<<< HEAD
-=======
-  
->>>>>>> main
